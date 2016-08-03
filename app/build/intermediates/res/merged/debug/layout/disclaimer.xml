@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+android:orientation="vertical"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:background="#FFFFFF"
+android:scrollbars="vertical"
+xmlns:android="http://schemas.android.com/apk/res/android">
+   
+    <LinearLayout 
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="5dp"
+    android:layout_margin="5dp"
+    android:id="@+id/llMain"
+    android:gravity="center_horizontal|top"
+    android:layout_gravity="center_horizontal|top"
+    >
+    
+    
+    
+        <LinearLayout 
+	    android:orientation="horizontal"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:id="@+id/llTitleArea"
+	    android:gravity="left|center_vertical"
+	    android:layout_gravity="left|top"
+	    android:layout_weight="0"
+	    >
+	
+	  		<ImageView 
+		    android:src="@drawable/innericon"
+			style="@style/logo_small"
+		    android:id="@+id/iInnerIcon"
+		    android:paddingRight="15dp"
+		    />
+		    
+    		<TextView  
+		    android:layout_width="wrap_content" 
+		    android:layout_height="wrap_content" 
+		    style="@style/h1"
+		    android:text="@string/m_disclaimer"
+		    android:layout_gravity="left|center_vertical"
+		    />
+	    
+	    </LinearLayout>
+	    
+   	    <ScrollView 
+	    android:orientation="vertical"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:scrollbars="vertical"
+	    android:scrollbarStyle="outsideOverlay"
+	    android:id="@+id/svMainSubMain"
+	    android:layout_weight="1"
+	    android:padding="5dp"
+	    >
+        
+	        <LinearLayout 
+		    android:orientation="vertical"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:id="@+id/llQuestionArea"
+		    android:gravity="top"
+		    android:layout_gravity="top"
+			android:padding="5dp"
+		    >
+		    
+	               		<TextView  
+			    android:layout_width="wrap_content" 
+			    android:layout_height="wrap_content" 
+			    android:text="@string/m_before_you_start"
+			    style="@style/h3"
+			    />
+		   		
+		   		<TextView  
+			    android:layout_width="wrap_content" 
+			    android:layout_height="wrap_content" 
+			    android:text="@string/m_disclaimer_content_0"
+			    style="@style/p1"
+			    />
+		   		
+		   		<TextView  
+			    android:layout_width="wrap_content" 
+			    android:layout_height="wrap_content" 
+			    android:text="@string/m_disclaimer_title_1"
+			    style="@style/h3"
+			    />
+			     
+		   		<TextView  
+			    android:layout_width="wrap_content" 
+			    android:layout_height="wrap_content" 
+			    android:text="@string/m_disclaimer_content_1"
+			    style="@style/p1"
+			    />
+		   		
+		   		   		<TextView  
+			    android:layout_width="wrap_content" 
+			    android:layout_height="wrap_content" 
+			    android:text="@string/m_disclaimer_title_2"
+			    style="@style/h3"
+			    />
+			     
+		   		<TextView  
+			    android:layout_width="wrap_content" 
+			    android:layout_height="wrap_content" 
+			    android:text="@string/m_disclaimer_content_2"
+			    style="@style/p1"
+			    />
+		   		   		<TextView  
+			    android:layout_width="wrap_content" 
+			    android:layout_height="wrap_content" 
+			    android:text="@string/m_disclaimer_title_3"
+			    style="@style/h3"
+			    />
+			     
+		   		<TextView  
+			    android:layout_width="wrap_content" 
+			    android:layout_height="wrap_content" 
+			    android:text="@string/m_disclaimer_content_3"
+			    style="@style/p1"
+			    />
+		   		
+		   		   		<TextView  
+			    android:layout_width="wrap_content" 
+			    android:layout_height="wrap_content" 
+			    android:text="@string/m_disclaimer_title_4"
+			    style="@style/h3"
+			    />
+			     
+		   		<TextView  
+			    android:layout_width="wrap_content" 
+			    android:layout_height="wrap_content" 
+			    android:text="@string/m_disclaimer_content_4"
+			    style="@style/p1"
+			    />
+		   		   		<TextView  
+			    android:layout_width="wrap_content" 
+			    android:layout_height="wrap_content" 
+			    android:text="@string/m_disclaimer_title_5"
+			    style="@style/h3"
+			    />
+			     
+		   		<TextView  
+			    android:layout_width="wrap_content" 
+			    android:layout_height="wrap_content" 
+			    android:text="@string/m_disclaimer_content_5"
+			    style="@style/p1"
+			    />
+		   		   		<TextView  
+			    android:layout_width="wrap_content" 
+			    android:layout_height="wrap_content" 
+			    android:text="@string/m_disclaimer_title_6"
+			    style="@style/h3"
+			    />
+			     
+		   		<TextView  
+			    android:layout_width="wrap_content" 
+			    android:layout_height="wrap_content" 
+			    android:text="@string/m_disclaimer_content_6"
+			    style="@style/p1"
+			    />
+		   		   		<TextView  
+			    android:layout_width="wrap_content" 
+			    android:layout_height="wrap_content" 
+			    android:text="@string/m_disclaimer_title_7"
+			    style="@style/h3"
+			    />
+			     
+		   		<TextView  
+			    android:layout_width="wrap_content" 
+			    android:layout_height="wrap_content" 
+			    android:text="@string/m_disclaimer_content_7"
+			    style="@style/p1"
+			    />
+				    
+		    
+	        </LinearLayout>
+	        
+	        
+	    </ScrollView>
+	  
+   		
+   		<LinearLayout 
+	    android:orientation="horizontal"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:id="@+id/llTipArea0"
+	    android:gravity="top|left"
+	    android:layout_gravity="top|left"
+	    android:layout_margin="4dp"
+    	android:background="@drawable/border0"
+    	android:layout_weight="0"
+    	android:visibility="gone"
+	    >
+	    
+			<ImageView 
+		    android:src="@drawable/info"
+			style="@style/icon_xxsmall"
+		    android:id="@+id/iInnerIcon2"
+		    android:padding="0dp"
+		    android:paddingRight="25dp"
+		    />
+    	    
+       		<TextView  
+		    android:layout_width="wrap_content" 
+		    android:layout_height="wrap_content" 
+		    android:text="@string/m_activate"
+		    android:id="@+id/tvHelp"
+		    style="@style/p3"
+		    
+		    />
+			    
+			    
+	    </LinearLayout>
+	        
+        <LinearLayout 
+	    android:orientation="horizontal"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:id="@+id/llButtonArea"
+	    android:gravity="right"
+	    android:layout_gravity="right"
+	    android:paddingTop="10dp"
+	    android:layout_weight="0"
+	    >
+	
+			<TextView  
+		    android:layout_width="fill_parent" 
+		    android:layout_height="fill_parent" 
+		    style="@style/b1la"
+		    android:text="@string/m_discl_agree"
+		    android:id="@+id/btnAgree"
+		    android:layout_weight="1"
+		    />
+		    
+   			<TextView  
+		    android:layout_width="fill_parent" 
+		    android:layout_height="fill_parent" 
+		    style="@style/b1la"
+		    android:text="@string/m_discl_dont"
+		    android:id="@+id/btnDont"
+		    android:layout_weight="1"
+		    />
+	    
+	    </LinearLayout>
+	    
+     	<TextView  
+	    android:layout_width="fill_parent" 
+	    android:layout_height="wrap_content" 
+	    android:text="@string/m_should_agree_to_proceed"
+	    android:id="@+id/tvMessage"
+	    style="@style/p2"
+	    android:paddingTop="10dp"
+	    android:paddingBottom="10dp"
+	    />
+    
+    </LinearLayout>
+    
+    
+</LinearLayout>

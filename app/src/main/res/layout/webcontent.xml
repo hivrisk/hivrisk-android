@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#FFFFFF"
+    android:gravity="center"
+    android:orientation="vertical" >
+    
+    <LinearLayout 
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/llMain"
+    android:gravity="center"
+    android:layout_gravity="center"
+    >
+
+	    
+   	    <WebView  
+	    android:id="@+id/wbContent"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:layout_weight="1"
+		/>
+	         
+        <LinearLayout 
+	    android:orientation="horizontal"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:id="@+id/llNavArea"
+	    android:gravity="top|right"
+	    android:layout_gravity="top|right"
+	    android:layout_weight="0"
+	    >
+	    
+       		<TextView  
+		    android:layout_width="wrap_content" 
+		    android:layout_height="wrap_content" 
+		    android:text="@string/m_nav_back"
+		    android:id="@+id/btnNavBack"
+		    style="@style/b1ln"
+		    android:layout_margin="2dp"
+		    />	
+	    
+	    </LinearLayout>
+    
+    </LinearLayout>
+    
+    
+    
+</LinearLayout>

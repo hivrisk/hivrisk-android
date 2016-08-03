@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/build/intermediates/res/merged/debug/drawable-large-hdpi-v4/condoms2.jpg",
+        "source": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/drawable-large-hdpi/condoms2.jpg"
+    },
+    {
+        "merged": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/build/intermediates/res/merged/debug/drawable-large-hdpi-v4/condoms.jpg",
+        "source": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/drawable-large-hdpi/condoms.jpg"
+    },
+    {
+        "merged": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/build/intermediates/res/merged/debug/drawable-large-hdpi-v4/rocks.jpg",
+        "source": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/drawable-large-hdpi/rocks.jpg"
+    },
+    {
+        "merged": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/build/intermediates/res/merged/debug/drawable-large-hdpi-v4/toboso.jpg",
+        "source": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/drawable-large-hdpi/toboso.jpg"
+    },
+    {
+        "merged": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/build/intermediates/res/merged/debug/drawable-large-hdpi-v4/strip.png",
+        "source": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/drawable-large-hdpi/strip.png"
+    }
+]

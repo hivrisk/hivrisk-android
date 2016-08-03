@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="m_before_you_start">Before you start</string>
+    <string name="m_disclaimer">Disclaimer</string>
+    <string name="m_read_disclaimer">Read Disclaimer</string>
+    <string name="m_foreword">
+		This app will estimate the risk you have for getting HIV (AIDS) through sexual activities 
+		and will advise you about what to do to prevent getting an infection or diagnose it promptly based on international scientific standards.
+		This guide does not substitute professional advisory.
+   	</string>
+   	<string name="m_disclaimer_content_0">
+   	    This is an agreement for the use of this application between You (The User) and the “HIV RISK Calculator” development team (Us).\n \n   	    
+   	</string>
+ 	<string name="m_disclaimer_title_1">
+   	   	1. You are of legal age for viewing this content.  	    
+   	</string>
+	<string name="m_disclaimer_content_1">
+   	    You agree that you will use the application only if you have are of legal age for this kind of content and if this content is legal according to your country and jurisdiction.\n\n
+	</string>
+   	<string name="m_disclaimer_title_2">
+   	    2. This application does not perform diagnosis nor substitutes medical care.
+	</string>
+	<string name="m_disclaimer_content_2">
+   	    You agree that this application will make a risk estimate for guidance and information purposes, this application does not perform diagnosis nor replaces the assistance of health providers.\n\n
+	</string>
+   	<string name="m_disclaimer_title_3">
+   	    3. Reliable scientific information and current, but is subject to change
+	</string>
+	<string name="m_disclaimer_content_3">
+   	    You agree that this application takes as reference current scientific guides and recommendations of international organizations without any ideological bias, however, new scientific knowledge is obtained every day, that’s why we are not responsible for the accuracy of the content.\n\n
+	</string>
+   	<string name="m_disclaimer_title_4">
+   	    4. We are not responsible for your results.
+	</string>
+   	<string name="m_disclaimer_content_4">
+   	    You agree that the information and calculations presented by this application are for educational purposes, thereby, we do not assume any responsibility for the consistency of this information with the opinion or diagnosis of health providers.\n\n
+	</string>
+   	<string name="m_disclaimer_title_5">
+   	    5. Use the app under your own responsibility.
+	</string>
+	<string name="m_disclaimer_content_5">
+		You agree that the information and calculations presented by this application are for educational purposes, thereby, we do not assume any responsibility for the consistency of this information with the opinion or diagnosis of health providers.\n\n
+	</string>
+	<string name="m_disclaimer_title_6">
+   	    6. Privacy: No personal data will be collected.
+    </string>
+	<string name="m_disclaimer_content_6">
+   	    This application does not collect any personal information. If you decide to, your result would be sent anonymously for statistical analysis.\n\n
+	</string>
+   	<string name="m_disclaimer_title_7">
+   	    7. Just Original Application.
+	</string>
+	<string name="m_disclaimer_content_7">
+		You agree that in order to use this application you should have acquired it from an application online store and will operate under its terms.\n\n  	    
+   	</string>
+   	
+	<string name="m_activate">When you agree, your app will be activated as well, this requires Internet.</string>
+    <string name="m_should_agree_to_proceed">You should agree to the disclaimer in order to continue</string>
+    <string name="m_you_have_agreed">Remember that you already agreed the disclaimer</string>
+    <string name="m_wish_to_read_again">Click here if you want to read the disclaimer again or you don\'t agree anymore</string>
+    <string name="m_discl_agree">I have understood and I agree</string>
+    <string name="m_discl_dont">I do not agree</string>
+    <string name="m_start">Start</string>
+    <string name="m_legal_advice">Legal Advice</string>
+    <string name="m_0step">What concerns you?</string>
+    <string name="m_0step_title">Describe your situation</string>
+    <string name="m_0step_content"></string>
+    <string name="m_0step_help"></string>
+    <string name="m_about_me">I\'m worried about getting infected by a person with whom I had sex</string>
+    <string name="m_about_other">I\'m concerned about infecting my partner because I\'m (maybe) HIV positive</string>
+    <string name="m_about_activities">I want to know more about how risky sexual practices are</string>
+    <string name="m_1step">You</string>
+    <string name="m_1step_title">Choose your gender</string>
+    <string name="m_1step_content"></string>
+    <string name="m_1step_help"></string>
+    <string name="m_2step">Your partner</string>
+    <string name="m_2step_title">...and the gender of your sexual partner</string>
+    <string name="m_2step_content"></string>
+    <string name="m_2step_help"></string>
+    <string name="m_3step">The bare truth!</string>
+    <string name="m_3step_title">Sexual activities:</string>
+    <string name="m_3step_content">Select all the activities you have performed with your partner last time</string>
+    <string name="m_3step_help">You can select up to 5 activities. If you had more, you will need to do the wizard again for the rest of them</string>
+    <string name="m_4step">And the most important thing!</string>
+    <string name="m_4step_title">Safe sex?</string>
+    <string name="m_4step_content">Select if you have used condom or other barrier during this activity</string>
+    <string name="m_4step_help"></string>
+    <string name="m_9step">Between Whom?</string>
+    <string name="m_9step_title">Sexual Activities</string>
+    <string name="m_9step_content">Select the sexual activities you want to be listed</string>
+    <string name="m_9step_help"></string>
+    <string name="m_10step">Which one?</string>
+    <string name="m_10step_title">Select the sexual activity you want to know more about</string>
+    <string name="m_10step_content"></string>
+    <string name="m_10step_help"></string>
+    <string name="m_11step">Sexual Activities</string>
+    <string name="m_11step_title"></string>
+    <string name="m_11step_content">More info at:</string>
+    <string name="m_11step_help"></string>
+    <string name="m_resourcecenter">Online Resource Center</string>
+    <string name="m_externalsite">Other online resources</string>
+    <string name="m_wikiart">Wikipedia Article</string>
+    <string name="m_malemale">Male to Male</string>
+    <string name="m_femalefemale">Female to Female</string>
+    <string name="m_femalemale">Female/Male, Male/Female</string>
+    <string name="m_allall">All Sexual Activities</string>
+    <string name="m_male">Male</string>
+    <string name="m_female">Female</string>
+    <string name="m_male_d_nom">Male</string>
+    <string name="m_female_d_nom">Female</string>
+    <string name="m_male_d_ins">Male</string>
+    <string name="m_female_d_ins">Female</string>
+    <string name="m_protected">We used condom or other barrier method correctly</string>
+    <string name="m_broken">We used it but it broke or we used it incorrectly</string>
+    <string name="m_unprotected">We didn\'t used any kind of protection</string>
+    
+    <string name="m_review_title">Is this correct?</string>
+    <string name="m_review_content">Take a look before you proceed</string>
+    
+    <string name="m_results_title">Results</string>
+    <string name="m_results_atrisk_0">Am I at risk?</string>
+    <string name="m_results_atrisk_1">Is my partner at risk?</string>
+    
+    <string name="m_results_assume_0">Assuming that your partner were HIV positive, your risk for getting HIV is:</string>
+    <string name="m_results_assume_1">Assuming that you were HIV positive, your partner\'s risk for getting HIV is:</string>
+    
+    <string name="m_results_taketest_0">Should I have to take the HIV test?</string>
+    <string name="m_results_test_nodanger_0">You don\'t need to regarding these sexual activities.</string>
+    <string name="m_results_test_verylow_0">You don\'t need to regarding these sexual activities. However, if you had sex more than one sexual partners, a yearly HIV test is recommended.</string>
+    <string name="m_results_test_low_0">A yearly HIV test is recommended at least if you perform this activities often</string>
+    <string name="m_results_test_considerable_0">An HIV test is recommended in no more than 6 months, specially if you have more sexual partners. You should also go to your health professional  for guidance about other STDs testing.</string>    
+    <string name="m_results_test_high_0">You should get the HIV test promptly! after this, you have to go to your health professional. Nevertheless, if the intercourse happened in less than a week, you should visit your health professional before getting tested.</string>  
+    <string name="m_results_why">The risk assessment was estimated regarding the most risky of the activities you have selected: \n</string>  
+    
+    <string name="m_results_taketest_1">Should my partner be tested for HIV?</string>
+    <string name="m_results_test_nodanger_1">Your partner doesn\'t has to be tested regarding these sexual activities</string>
+    <string name="m_results_test_verylow_1">Is recommended for your partner to have an annual test at least.</string>
+    <string name="m_results_test_low_1">Is recommended for your partner to have an annual test at least.</string>
+    <string name="m_results_test_considerable_1">Is recommended for your partner to have an HIV test in no more than 6 months, and should also look for medical guidance about other STDs.</string>    
+    <string name="m_results_test_high_1">Make your partner being tested as soon as possible, after this, your partner has to go to a health professional. However, if the intercourse happened in less than a week, your partner needs to go to a health professional before getting tested.</string>  
+    
+    <string name="m_results_riskmod">Things that may increase the risk</string>
+    <string name="m_results_riskmod_0">
+        Having sex with too many partners increases the risk of getting HIV or other STD infections.
+        Furthermore, if you do not know your partner or is a casual partner, or if the intercourse happened in a hookup place, the risk gets even higher.
+        Having skin or mucosal injuries also increase the risk.
+    </string>
+    
+    <string name="m_results_risk_haart_0">But, what if my partner is HIV positive and is receiving treatment?</string>
+    <string name="m_results_risk_haart_1">But, what if I am HIV positive and currently receiving treatment?</string>
+    
+    <string name="m_results_riskless_0">
+		Recent finding suggest that if your partner, had been receiving and adequate and successful antiretroviral therapy with undetectable viral load, the risk you have for getting infection lowers up to 90%. 
+		However, this doesn\'t mean that you are at no risk at all, that\'s why is always preferable the correct use of condom during sexual intercourse. 
+		If your on a stable partnership consult your health provider for knowing more about having sexual a safe sexual life with your partner.
+    </string>
+    
+    <string name="m_results_riskless_1">
+		Recent finding suggest that if you had been receiving and adequate and successful antiretroviral therapy with undetectable viral load, your partner\'s risk for getting infection lowers up to 90%. 
+		However, this doesn\'t mean that your partner has no risk at all, that\'s why is always preferable the correct use of condom during sexual intercourse. 
+		If your on a stable partnership consult your health provider for knowing more about having sexual a safe sexual life with your partner.
+    </string>
+            
+    <string name="m_results_prevention">How to prevent risks?</string>
+    <string name="m_results_preventing_s">Excellent! Keep having safe sex and make your partner do the same.</string>
+    <string name="m_results_preventing_u">
+       	Having safe sex (protected) is the best thing you can do to prevent HIV infection or other STDs. 
+       	A correctly used condom reduces HIV transmission risk for almost every sexual activity and even for the ones where condom cannot be used (e.g. oral-anal or oral-vaginal), 
+       	other barrier methods are also effective preventing HIV and other STD and viral hepatitis transmission. 
+       	Being regularly tested for HIV and other STDs and going to your health providers is widely recommended.
+    </string>
+    
+    <string name="m_results_nodanger">No Risk</string>
+    <string name="m_results_nodanger_m_0">You are at no risk of getting HIV infection</string>
+    <string name="m_results_nodanger_m_1">Your sexual partner is at no risk of getting HIV infection</string>
+    <string name="m_results_nodanger_further">
+        So far, there is no scientific evidence showing that the activities you have performed can let to an HIV infection. 
+   	</string>
+   	
+    <string name="m_results_verylow">Very Low Risk</string>
+    <string name="m_results_verylow_m_0">You are at very low risk of getting HIV infection</string>
+    <string name="m_results_verylow_m_1">Your sexual partner is at very low risk of getting infection</string>
+    <string name="m_results_verylow_further">
+        Although the risk of infection is very low, you should always prefer safe sex.
+   	</string>
+   	
+    <string name="m_results_low">Low Risk</string>
+    <string name="m_results_low_m_0">You are at low risk of getting HIV infection</string>
+    <string name="m_results_low_m_1">Your sexual partner is at low risk of getting infection</string>
+    <string name="m_results_low_further">
+        Ok, it\'s low, but don\'t take chances. Always prefer safe sex.
+   	</string>
+   	
+    <string name="m_results_considerable">Considerable Risk</string>
+    <string name="m_results_considerable_m_0">You are at considerable risk of getting HIV infection</string>
+    <string name="m_results_considerable_m_1">Your sexual partner is at considerable risk of getting infection</string>
+    <string name="m_results_considerable_further">
+        The risk of getting infected is enough to do something. Don\'t let it go! You can also have fun with safe sex.
+   	</string>
+   	
+    <string name="m_results_high">High Risk</string>
+    <string name="m_results_high_m_0">You are at high risk of getting HIV infection</string>
+    <string name="m_results_high_m_1">Your sexual partner is at high risk of getting infection</string>
+    <string name="m_results_high_further">
+        The chances of getting infected are high, do not ignore the risk and have always safe sex. 
+   	</string>
+   	
+    <string name="m_results_safe">safe</string>
+   	<string name="m_results_unsafe">unsafe</string>
+ 	<string name="m_results_protected">protected</string>
+   	<string name="m_results_unprotected">unprotected</string>
+   	
+    <string name="m_results_evidence">HIV transmission risk:</string>
+    <string name="m_results_evidence_un">HIV transmission risk without protection</string>
+    <string name="m_results_protec_strategies">What protective methods can I use?</string>
+    <string name="m_results_protec_condom">
+        A perfectly used condom is effective for avoiding the HIV transmission.
+        The condom efficiency has been widely proven when used consistently. 
+        However, you have to take in mind that a minimal risk is always present because you can misuse the condom or it may result to be broken.
+    </string>
+    <string name="m_results_protec_dam">
+        The use of latex dams (dental dams) is useful to reduce the risk of getting HIV and other STDs while performing this activity,
+        although its protective effect has not been studied so deeply. 
+        Condoms cut lengthwise are also useful for reducing the risk.
+    </string>
+   	<string name="m_results_protec_glove">
+		 The use of latex medical gloves are useful to reduce the risk of getting HIV and other STDs while performing this activity,
+         although its protective effect has not been studied so deeply. 
+    </string>
+    <string name="m_results_evidence_norisk">So far, there is no scientific evidence showing that this activity may transmit HIV virus</string>
+   	<string name="m_results_evidence_verylow">So far, HIV virus transmission during this activity has never been reported although under certain conditions the transmission could be possible.</string>
+    <string name="m_results_evidence_low">There are extremely rare reported cases of HIV transmission through this activity. It\'s very unlikely to happen, but it could.</string>
+    <string name="m_results_evidence_considerable">Is well known that through this activity, HIV virus can be transmitted. The risk cannot be ignored.</string>
+    <string name="m_results_evidence_high">Performing this activity is very likely to transmit HIV virus. Although infection is not a certainty, chances of getting infected are high.</string>
+    <string name="m_results_evidence_protected">
+        A perfectly used condom is effective for avoiding the HIV transmission. The condom efficiency has been widely proven when used consistently. 
+        However, you have to take in mind that a minimal risk is always present because you can misuse the condom or it may result to be broken.
+        Other barrier methods have proven to be effective as well, although they haven\'t been studied so widely.
+    </string>
+   
+    <string name="m_results_could_get">Other sexual transmitted diseases you may also get:</string> 
+    <string name="m_std_hepb">Hepatitis B</string>    
+    <string name="m_std_hpap">Human Papilloma Virus</string>  
+    <string name="m_std_herv">Herpes Simplex Virus</string>  
+    <string name="m_std_gono">Gonorrhea</string>
+    <string name="m_std_sifi">Syphilis</string>  
+    <string name="m_std_para">Crabs, Scabies</string>  
+    <string name="m_std_feor">Parasitosis like: Amebiasis, Shigellosis, Giardiasis and Hepatitis A</string>
+    <string name="m_std_clam">Chlamydia</string>
+    <string name="m_std_bact">Other bacterial infections</string>
+    
+    <string name="m_help_barrier">Other Barrier?</string>
+    <string name="m_help_correctly">Correctly?</string>
+    
+    <string name="m_donext">And that\'s all!</string>
+    <string name="m_donext_title">What to do now?</string>
+    <string name="m_donext_tip1">Have safe sex</string>
+    <string name="m_donext_tip2">Get tested</string>
+    <string name="m_donext_tip3">Get professional guidance</string>
+    <string name="m_donext_content">Please, do not forget:</string>
+    <string name="m_hivtest">Where and How to get tested</string>
+    <string name="m_faq">Frequently Asked Questions</string>
+    <string name="m_thank_you">Thank you for using this app!</string>
+    <string name="m_contribute">Contribute sending your results for stats (anonymously)</string>
+    <string name="m_feedback">Feedback</string>
+    <string name="m_moreinfo">Learn more about HIV</string>
+    <string name="m_recommend">Liked this app? Tell your friends!</string>
+    <string name="m_facebook">Visit us on:</string>
+    
+    <string name="m_send">Contribute!</string>
+    <string name="m_send_title">Collaborate sending your anonymous results</string>
+    <string name="m_send_content">
+        Submitting your anonymous data helps scientist and physicians to understand the dynamics of HIV and other STDs. 
+        Fill this form and submit it for further statistical analysis.
+    </string>
+    <string name="m_send_age">Your age</string>
+    <string name="m_send_country">Your country</string>
+    <string name="m_send_mustfillall">You must fill both fields</string>
+    <string name="m_send_age_wrong">Your age doesn\'t seems to be correct</string>
+    <string name="m_send_send">Submit</string>
+    <string name="m_send_nopersonaldata">Any personal data will be collected nor sent</string>
+    <string name="m_send_wait">Wait a moment...</string>
+    <string name="m_send_sent">Your result were correctly sent. Thank you!</string>
+    <string name="m_send_couldnt">The data could not be sent, check your connection and retry.</string>
+    
+    <string name="m_tip_othermethods_title">Other barrier methods</string>
+    <string name="m_tip_othermethods_msg">
+        Other barrier devices for sex such as female condom, dental latex dams or latex gloves are effective reducing the risk of 
+        HIV transmission as long as they are perfectly used and they cover all contacting and infecting areas such as mouth, genitals or anus. 
+        However there is no enough scientific data to be sure this methods are as effective as condom.
+    </string>
+    
+    <string name="m_tip_correctcondom_title">The correct condom usage</string>
+    <string name="m_tip_correctcondom_msg">
+        1. Check expiration date, if it has expired, replace it.\n
+        2. Use a new condom for every act or intercourse, from start to end.\n
+        3. Put a condom on the erect penis before any contact is made between any part of partner\'s body\n
+        4. Holding the tip of the condom, unroll it all the way down to the base of the penis\n
+        5. After ejaculation and before penis gets soft, withdraw carefully the condom avoiding semen leaks\n
+        6. Dispose the condom immediately wrapping it in tissue \n
+        7. If you felt the condom broke, stop immediately, withdraw and replace it. \n
+        8. Be sure lubrication is enough during intercourse, if not, use water based lubricants \r
+    </string>
+    
+    <string name="m_oral_pen_act">Active Oral Sex on Penis</string>
+    <string name="t_oral_pen_act">You have put your partner\'s penis on your mouth (giving a blowjob)</string>
+    
+    <string name="m_oral_pen_rec">Receptive Oral Sex on Penis</string>
+    <string name="t_oral_pen_rec">You have put your penis on your partner\'s mouth (getting a blowjob)</string>
+    
+    <string name="m_oral_anl_act">Active Oral-Anal Sex</string>
+    <string name="t_oral_anl_act">You have licked your partner\'s anus (rimming)</string>
+    
+    <string name="m_oral_anl_rec">Receptive Oral-Anal Sex</string>
+    <string name="t_oral_anl_rec">Your partner has licked your anus (rimming)</string>
+    
+    <string name="m_oral_vag_act">Active Oral-Vaginal Sex</string>
+    <string name="t_oral_vag_act">You have licked your partner\'s vulva/vagina/clitoris (cunnilingus)</string>
+    
+    <string name="m_oral_vag_rec">Receptive Oral-Vaginal Sex</string>
+    <string name="t_oral_vag_rec">Your partner have licked your vulva/vagina/clitoris (cunnilingus)</string>
+    
+    <string name="m_anal_pen_act">Insertive Anal-Penile Sex</string>
+    <string name="t_anal_pen_act">You have penetrated your partner\'s anus with your penis</string>
+    
+    <string name="m_anal_pen_rec">Receptive Anal-Penile Sex</string>
+    <string name="t_anal_pen_rec">Your anus has been penetrated by your partner\'s penis</string>
+    
+    <string name="m_vagl_pen_act">Insertive Vaginal-Penile Sex</string>
+    <string name="t_vagl_pen_act">You penetrated your partner\'s vagina with your penis</string>
+    
+    <string name="m_vagl_pen_rec">Receptive Vaginal-Penile Sex</string>
+    <string name="t_vagl_pen_rec">Your vagina have been penetrated by your partner\'s penis</string>
+    
+    <string name="m_fist_anl_act">Insertive Fingering/Fisting</string>
+    <string name="t_fist_anl_act">You have penetrated your partner\'s anus with your finger, hand or limb</string>
+    
+    <string name="m_fist_anl_rec">Receptive Fingering/Fisting</string>
+    <string name="t_fist_anl_rec">Your anus have been penetrated by your partner\'s finger hand or limb</string>
+       
+    <string name="m_hand_pen_act">Active Penile Masturbation</string>
+    <string name="t_hand_pen_act">You have masturbated your partner\'s penis (jacking off, handjob)</string>
+    
+    <string name="m_hand_pen_rec">Receptive Penile Masturbation</string>
+    <string name="t_hand_pen_rec">You penis was masturbated by your partner\'s hand (jacking off, handjob)</string>
+    
+    <string name="m_hand_vag_act">Active Vulvar Masturbation</string>
+    <string name="t_hand_vag_act">You have masturbated your partner\'s vulva/vagina/clitoris</string>
+    
+    <string name="m_hand_vag_rec">Receptive Vulvar Masturbation</string>
+    <string name="t_hand_vag_rec">Your vulva/vagina/clitoris was masturbated by your partner\'s</string>
+    
+    <string name="m_cums_skn_rec">Got Semen over your skin(not wounded)</string>
+    <string name="t_cums_skn_rec">Your partner\'s semen got in contact with a healthy part of your skin</string>
+    
+    <string name="m_cums_skn_act">Semen over partner\'s skin(not wounded)</string>
+    <string name="t_cums_skn_act">Your semen got over your partner\'s healthy skin</string>
+    
+    <string name="m_cums_to_wound">Got semen over wounded skin</string>
+    <string name="t_cums_to_wound">Your parntner\'s semen got in contact with a wounded part of your skin</string>
+    
+    <string name="m_flui_to_skin">Fluid over your skin(not wounded)</string>
+    <string name="t_flui_to_skin">Any human fluid but semen got in contact with a healthy part of your skin</string>
+    
+    <string name="m_flui_to_wound">Fluid over wounded skin</string>
+    <string name="t_flui_to_wound">Any human fluid but semen got in contact with a wounded part of your skin</string>
+    
+    <string name="m_frot_vag_vag">Vulva to vulva rubbing</string>
+    <string name="t_frot_vag_vag">You rubbed you vulva with your partner\'s vulva</string>
+    
+    <string name="m_frot_pen_pen">Penis to penis rubbing and docking</string>
+    <string name="t_frot_pen_pen">You rubbed your penis with your partner\'s penis</string>
+        
+    <string name="m_frot_cud_hug">Hugs, cuddling or body rubbing</string>
+    <string name="t_frot_cud_hug">Any contact where you rubbed or touched your partner\'s body without any insertions</string>
+    
+    <string name="m_kiss_kis_kis">Kiss</string>
+    <string name="t_kiss_kis_kis">Without the presence of blood or semen</string>
+        
+    <string name="m_save_done_0">Your results were saved as</string>
+    <string name="m_save_done_1">in your SD card</string>
+    <string name="m_save_dont">Your results could not be saved. Check if your SD card storage is available</string>
+    
+    <string name="sm_your_performed">You are {MSEX} and you have performed with a {OSEX} partner: </string>
+    <string name="sm_your_concerned_0">and you are concerned about getting infected because of this activities</string>
+    <string name="sm_your_concerned_1">and you are concerned about infecting your partner because you are (maybe) HIV positive</string>
+    <string name="m_youre_a">You are a </string>
+    <string name="m_you_performed">and you performed with your </string>
+    <string name="m_partner">partner</string>
+    <string name="m_sem_protected"> with correctly used protection</string>
+    <string name="m_sem_broken"> with misused/failed/broken protection</string>
+    <string name="m_sem_unprotected">without any protection</string>
+    <string name="m_tip">!</string>
+    <string name="m_tip_barrier">Barrier method?</string>
+    <string name="m_tip_correctly">Correctly?</string>
+    <string name="m_nav_start_again">Start Again</string>
+    <string name="m_nav_save">Save results</string>
+    <string name="m_nav_back">Back</string>
+    <string name="m_nav_proceed">Next</string>
+    <string name="m_nav_get_result">Get Result!</string>
+    <string name="m_nav_do_next">What to do next</string>
+    <string name="m_nav_web">aehiv.com</string>
+    <string name="app_name">HIV Risk Calculator</string>
+    
+    <string name="check_license">Check license</string>
+	<string name="checking_license">Checking license...</string>
+	<string name="dont_allow">Don\'t allow the user access</string>
+	<string name="allow">Allow the user access</string>
+	<string name="application_error">Application error: %1$s</string>
+	
+	<string name="m_biblos">View bibliography and references</string>
+	
+	<string name="m_about">
+	What about the risk of this activity?
+	</string>	
+	<string name="m_avoid">
+	When to avoid this activity?
+	</string>
+	<string name="m_advise">
+	How can I perform this activity safely?
+	</string>
+	
+	<string name="url_main">http://www.aehiv.com/</string>
+    <string name="url_face">https://www.facebook.com/HIVRISKCalculator</string>
+    <string name="url_mobile">http://www.aehiv.com/mobile/</string>
+    
+</resources>

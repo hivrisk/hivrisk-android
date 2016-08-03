@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/composite4"
+    android:gravity="center"
+    android:orientation="vertical" >
+    
+    <LinearLayout 
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="5dp"
+    android:layout_margin="10dp"
+    android:id="@+id/llMain"
+    android:gravity="center"
+    android:layout_gravity="center"
+    >
+    
+    
+        <LinearLayout 
+	    android:orientation="horizontal"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:id="@+id/llTitleArea"
+	    android:gravity="left|center_vertical"
+	    android:layout_gravity="left|top"
+	    android:layout_weight="0"
+	    >
+	
+	  		<ImageView 
+		    android:src="@drawable/innericon"
+			style="@style/logo_small"
+		    android:id="@+id/iInnerIcon"
+		    android:paddingRight="15dp"
+		    />
+		    
+    		<TextView  
+		    android:layout_width="wrap_content" 
+		    android:layout_height="wrap_content" 
+		    style="@style/h1"
+		    android:text="@string/m_4step"
+		    android:paddingBottom="3dp"
+		    />
+	    
+	    </LinearLayout>
+	    
+        <ScrollView 
+	    android:orientation="vertical"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:scrollbars="vertical"
+	    android:scrollbarStyle="outsideOverlay"
+	    android:id="@+id/svMain"
+	    android:layout_weight="1"
+	    android:padding="4dp"
+	    >
+	    
+	    
+        <LinearLayout 
+	    android:orientation="vertical"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:id="@+id/llScrollArea"
+	    android:gravity="top"
+	    android:layout_gravity="top"
+	    >
+		    
+	        <LinearLayout 
+		    android:orientation="vertical"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:id="@+id/llContextArea"
+		    android:gravity="left|center_vertical"
+		    android:layout_gravity="left|center_vertical"
+		    android:layout_weight="3"
+		    android:layout_marginBottom="10dp"
+		    >
+		    
+				<TextView  
+			    android:layout_width="fill_parent" 
+			    android:layout_height="wrap_content" 
+			    style="@style/h3"
+			    android:text="@string/m_4step_title"
+			    android:id="@+id/tvTitle"
+			    android:layout_gravity="right"
+			    />
+		     
+		   		<TextView  
+			    android:layout_width="wrap_content" 
+			    android:layout_height="wrap_content" 
+			    android:text="@string/m_4step_content"
+			    style="@style/p1"
+			    />
+		    
+		    </LinearLayout>
+		    
+		    
+	        <LinearLayout 
+		    android:orientation="vertical"
+		    android:layout_width="fill_parent"
+		    android:layout_height="fill_parent"
+		    android:id="@+id/llQuestionArea"
+		    android:gravity="center"
+		    android:layout_gravity="center"
+		    android:layout_weight="1"
+		    >
+		   		
+       	        <LinearLayout 
+			    android:orientation="horizontal"
+			    android:layout_width="fill_parent"
+			    android:layout_height="fill_parent"
+			    android:id="@+id/llQuestion1"
+			    android:gravity="center_vertical|left"
+			    android:layout_gravity="center_vertical|left"
+			    android:layout_weight="1"
+			    >
+			    
+          	  		<ImageView 
+				    android:src="@drawable/condomok"
+					style="@style/icon_small"
+				    android:id="@+id/iInnerIcon"
+				    android:paddingRight="5dp"
+				    />
+		
+					<TextView  
+				    android:layout_width="fill_parent" 
+				    android:layout_height="wrap_content" 
+				    style="@style/b1lb"
+				    android:text="@string/m_protected"
+		   		    android:id="@+id/btnOne"
+		   		    android:tag="1"
+				    />
+					
+				</LinearLayout>
+				
+			    <LinearLayout 
+			    android:orientation="horizontal"
+			    android:layout_width="fill_parent"
+			    android:layout_height="fill_parent"
+			    android:id="@+id/llQuestion2"
+			    android:gravity="center_vertical|left"
+			    android:layout_gravity="center_vertical|left"
+			    android:layout_weight="1"
+			    >
+			    
+          	  		<ImageView 
+				    android:src="@drawable/condombroke"
+					style="@style/icon_small"
+				    android:id="@+id/iInnerIcon"
+				    android:paddingRight="5dp"
+				    />
+       	        
+					<TextView  
+				    android:layout_width="fill_parent" 
+				    android:layout_height="wrap_content" 
+				    style="@style/b1lb"
+				    android:text="@string/m_broken"
+		   		    android:id="@+id/btnTwo"
+		   		    android:layout_weight="1"
+		   		    android:tag="2"
+				    />
+				</LinearLayout>
+				
+			    <LinearLayout 
+			    android:orientation="horizontal"
+			    android:layout_width="fill_parent"
+			    android:layout_height="fill_parent"
+			    android:id="@+id/llQuestion3"
+			    android:gravity="center_vertical|left"
+			    android:layout_gravity="center_vertical|left"
+			    android:layout_weight="1"
+			    >
+			    
+          	  		<ImageView 
+				    android:src="@drawable/condomno"
+					style="@style/icon_small"
+				    android:id="@+id/iInnerIcon"
+				    android:paddingRight="5dp"
+				    />
+					
+					<TextView  
+				    android:layout_width="fill_parent" 
+				    android:layout_height="wrap_content" 
+				    style="@style/b1lb"
+				    android:text="@string/m_unprotected"
+		   		    android:id="@+id/btnThree"
+		   		    android:layout_weight="1"
+		   		    android:tag="3"
+				    />
+					
+				</LinearLayout>
+				
+				<LinearLayout 
+			    android:orientation="horizontal"
+			    android:layout_width="fill_parent"
+			    android:layout_height="fill_parent"
+			    android:id="@+id/llTipArea"
+			    android:gravity="center_vertical|left"
+			    android:layout_gravity="center_vertical|left"
+			    android:layout_margin="4dp"
+			    android:layout_weight="0.5"
+			    >
+			    
+					<ImageView 
+				    android:src="@drawable/info"
+					style="@style/icon_xxsmall"
+				    android:id="@+id/iInnerIcon"
+				    android:padding="0dp"
+				    android:paddingRight="25dp"
+				    />
+		    
+		       		<TextView  
+				    android:layout_width="wrap_content" 
+				    android:layout_height="wrap_content" 
+				    android:text="@string/m_tip_barrier"
+				    android:id="@+id/btnTip1"
+				    style="@style/a2"
+				    android:tag="othermethods"
+				    android:background="@drawable/border0"
+				    android:layout_margin="2dp"
+				    />
+				    
+		       		<TextView  
+				    android:layout_width="wrap_content" 
+				    android:layout_height="wrap_content" 
+				    android:text="@string/m_tip_correctly"
+				    android:id="@+id/btnTip2"
+				    style="@style/a2"
+				    android:tag="correctcondom"
+				    android:background="@drawable/border0"
+				    android:layout_margin="2dp"
+				    />
+					    
+			    
+			    </LinearLayout>
+				
+		    
+		    </LinearLayout>
+		    
+	        <LinearLayout 
+		    android:orientation="horizontal"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:id="@+id/llInfoArea"
+		    android:gravity="top|right"
+		    android:layout_gravity="top|right"
+		    android:layout_weight="1"
+		    android:paddingTop="10dp"
+		    >
+		        
+	       		<TextView  
+			    android:layout_width="wrap_content" 
+			    android:layout_height="wrap_content" 
+			    android:text="@string/m_2step_help"
+			    android:id="@+id/tvHelp"
+			    style="@style/p1"
+			    
+			    />
+				    
+		    
+		    </LinearLayout>
+		    
+		</LinearLayout></ScrollView>
+	    
+        <LinearLayout 
+	    android:orientation="horizontal"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:id="@+id/llNavArea"
+	    android:gravity="top|right"
+	    android:layout_gravity="top|right"
+	    android:layout_weight="0"
+	    >
+	    
+       		<TextView  
+		    android:layout_width="wrap_content" 
+		    android:layout_height="wrap_content" 
+		    android:text="@string/m_nav_back"
+		    android:id="@+id/btnNavBack"
+		    style="@style/b1ln"
+		    android:layout_margin="2dp"
+		    />
+		    
+       		<TextView  
+		    android:layout_width="wrap_content" 
+		    android:layout_height="wrap_content" 
+		    android:text="@string/m_nav_start_again"
+		    android:id="@+id/btnNavEnd"
+		    style="@style/b1ln"
+		    android:layout_margin="2dp"
+		    />
+			    
+	    
+	    </LinearLayout>
+	    
+        
+    
+    </LinearLayout>
+    
+    	    
+</LinearLayout>

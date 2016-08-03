@@ -1,0 +1,511 @@
+[
+    {
+        "outputFile": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/build/intermediates/res/merged/debug/values-xlarge-v4/values-xlarge-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 9,
+                    "endOffset": 174
+                },
+                "from": {
+                    "file": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/values-xlarge/style.xml",
+                    "position": {
+                        "startLine": 173,
+                        "startColumn": 1,
+                        "startOffset": 5760,
+                        "endLine": 176,
+                        "endColumn": 9,
+                        "endOffset": 5879
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 179,
+                    "endLine": 9,
+                    "endColumn": 9,
+                    "endOffset": 298
+                },
+                "from": {
+                    "file": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/values-xlarge/style.xml",
+                    "position": {
+                        "startLine": 178,
+                        "startColumn": 1,
+                        "startOffset": 5883,
+                        "endLine": 181,
+                        "endColumn": 9,
+                        "endOffset": 6002
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 303,
+                    "endLine": 22,
+                    "endColumn": 9,
+                    "endOffset": 875
+                },
+                "from": {
+                    "file": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/values-xlarge/style.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 1,
+                        "startOffset": 2405,
+                        "endLine": 102,
+                        "endColumn": 9,
+                        "endOffset": 2977
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 880,
+                    "endLine": 35,
+                    "endColumn": 9,
+                    "endOffset": 1452
+                },
+                "from": {
+                    "file": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/values-xlarge/style.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 1,
+                        "startOffset": 2981,
+                        "endLine": 116,
+                        "endColumn": 9,
+                        "endOffset": 3553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1457,
+                    "endLine": 48,
+                    "endColumn": 9,
+                    "endOffset": 2029
+                },
+                "from": {
+                    "file": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/values-xlarge/style.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 1,
+                        "startOffset": 3557,
+                        "endLine": 130,
+                        "endColumn": 9,
+                        "endOffset": 4129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2034,
+                    "endLine": 61,
+                    "endColumn": 9,
+                    "endOffset": 2606
+                },
+                "from": {
+                    "file": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/values-xlarge/style.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 1,
+                        "startOffset": 4136,
+                        "endLine": 145,
+                        "endColumn": 9,
+                        "endOffset": 4708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 2611,
+                    "endLine": 74,
+                    "endColumn": 9,
+                    "endOffset": 3184
+                },
+                "from": {
+                    "file": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/values-xlarge/style.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 1,
+                        "startOffset": 4712,
+                        "endLine": 159,
+                        "endColumn": 9,
+                        "endOffset": 5285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 3189,
+                    "endLine": 85,
+                    "endColumn": 9,
+                    "endOffset": 3656
+                },
+                "from": {
+                    "file": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/values-xlarge/style.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 1,
+                        "startOffset": 5289,
+                        "endLine": 171,
+                        "endColumn": 9,
+                        "endOffset": 5756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 3661,
+                    "endLine": 89,
+                    "endColumn": 9,
+                    "endOffset": 3780
+                },
+                "from": {
+                    "file": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/values-xlarge/style.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 1,
+                        "startOffset": 960,
+                        "endLine": 35,
+                        "endColumn": 9,
+                        "endOffset": 1079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 3785,
+                    "endLine": 94,
+                    "endColumn": 9,
+                    "endOffset": 3949
+                },
+                "from": {
+                    "file": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/values-xlarge/style.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 1,
+                        "startOffset": 1083,
+                        "endLine": 41,
+                        "endColumn": 9,
+                        "endOffset": 1247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 3954,
+                    "endLine": 99,
+                    "endColumn": 9,
+                    "endOffset": 4118
+                },
+                "from": {
+                    "file": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/values-xlarge/style.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 1,
+                        "startOffset": 1250,
+                        "endLine": 47,
+                        "endColumn": 9,
+                        "endOffset": 1414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 4123,
+                    "endLine": 103,
+                    "endColumn": 9,
+                    "endOffset": 4242
+                },
+                "from": {
+                    "file": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/values-xlarge/style.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 1,
+                        "startOffset": 1418,
+                        "endLine": 52,
+                        "endColumn": 9,
+                        "endOffset": 1537
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 4247,
+                    "endLine": 107,
+                    "endColumn": 9,
+                    "endOffset": 4366
+                },
+                "from": {
+                    "file": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/values-xlarge/style.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 1,
+                        "startOffset": 1541,
+                        "endLine": 57,
+                        "endColumn": 9,
+                        "endOffset": 1660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 4371,
+                    "endLine": 111,
+                    "endColumn": 9,
+                    "endOffset": 4503
+                },
+                "from": {
+                    "file": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/values-xlarge/style.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 453,
+                        "endLine": 18,
+                        "endColumn": 9,
+                        "endOffset": 585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 4508,
+                    "endLine": 116,
+                    "endColumn": 9,
+                    "endOffset": 4689
+                },
+                "from": {
+                    "file": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/values-xlarge/style.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 589,
+                        "endLine": 24,
+                        "endColumn": 9,
+                        "endOffset": 770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 4694,
+                    "endLine": 121,
+                    "endColumn": 9,
+                    "endOffset": 4876
+                },
+                "from": {
+                    "file": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/values-xlarge/style.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 1,
+                        "startOffset": 774,
+                        "endLine": 30,
+                        "endColumn": 9,
+                        "endOffset": 956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 4881,
+                    "endLine": 127,
+                    "endColumn": 9,
+                    "endOffset": 5135
+                },
+                "from": {
+                    "file": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/values-xlarge/style.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 57,
+                        "endLine": 8,
+                        "endColumn": 9,
+                        "endOffset": 311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 5140,
+                    "endLine": 131,
+                    "endColumn": 9,
+                    "endOffset": 5274
+                },
+                "from": {
+                    "file": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/values-xlarge/style.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 315,
+                        "endLine": 13,
+                        "endColumn": 9,
+                        "endOffset": 449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 5279,
+                    "endLine": 135,
+                    "endColumn": 9,
+                    "endOffset": 5398
+                },
+                "from": {
+                    "file": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/values-xlarge/style.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 1,
+                        "startOffset": 1664,
+                        "endLine": 62,
+                        "endColumn": 9,
+                        "endOffset": 1783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 5403,
+                    "endLine": 139,
+                    "endColumn": 9,
+                    "endOffset": 5522
+                },
+                "from": {
+                    "file": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/values-xlarge/style.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 1,
+                        "startOffset": 1787,
+                        "endLine": 67,
+                        "endColumn": 9,
+                        "endOffset": 1906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 5527,
+                    "endLine": 143,
+                    "endColumn": 9,
+                    "endOffset": 5647
+                },
+                "from": {
+                    "file": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/values-xlarge/style.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 1,
+                        "startOffset": 1910,
+                        "endLine": 72,
+                        "endColumn": 9,
+                        "endOffset": 2030
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 5652,
+                    "endLine": 147,
+                    "endColumn": 9,
+                    "endOffset": 5772
+                },
+                "from": {
+                    "file": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/values-xlarge/style.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 1,
+                        "startOffset": 2034,
+                        "endLine": 77,
+                        "endColumn": 9,
+                        "endOffset": 2154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 5777,
+                    "endLine": 151,
+                    "endColumn": 9,
+                    "endOffset": 5896
+                },
+                "from": {
+                    "file": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/values-xlarge/style.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 1,
+                        "startOffset": 2157,
+                        "endLine": 82,
+                        "endColumn": 9,
+                        "endOffset": 2276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 5901,
+                    "endLine": 155,
+                    "endColumn": 9,
+                    "endOffset": 6020
+                },
+                "from": {
+                    "file": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/values-xlarge/style.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 1,
+                        "startOffset": 2280,
+                        "endLine": 87,
+                        "endColumn": 9,
+                        "endOffset": 2399
+                    }
+                }
+            }
+        ]
+    }
+]
