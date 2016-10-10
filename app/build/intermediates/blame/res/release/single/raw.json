@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/build/intermediates/res/merged/release/raw/biblos_ru.html",
+        "source": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/raw/biblos_ru.html"
+    },
+    {
+        "merged": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/build/intermediates/res/merged/release/raw/biblos_en.html",
+        "source": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/raw/biblos_en.html"
+    },
+    {
+        "merged": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/build/intermediates/res/merged/release/raw/sexactiv.sql",
+        "source": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/raw/sexactiv.sql"
+    },
+    {
+        "merged": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/build/intermediates/res/merged/release/raw/biblos_es.html",
+        "source": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/raw/biblos_es.html"
+    },
+    {
+        "merged": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/build/intermediates/res/merged/release/raw/biblos.html",
+        "source": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/raw/biblos.html"
+    },
+    {
+        "merged": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/build/intermediates/res/merged/release/raw/sexcontent.sql",
+        "source": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/raw/sexcontent.sql"
+    }
+]

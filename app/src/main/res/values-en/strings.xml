@@ -399,7 +399,7 @@
     <string name="m_nav_proceed">Next</string>
     <string name="m_nav_get_result">Get Result!</string>
     <string name="m_nav_do_next">What to do next</string>
-    <string name="m_nav_web">aehiv.com</string>
+    <string name="m_nav_web">hivrisk.org</string>
     <string name="app_name">HIV Risk Calculator</string>
     
     <string name="check_license">Check license</string>
@@ -420,8 +420,8 @@
 	How can I perform this activity safely?
 	</string>
 	
-	<string name="url_main">http://www.aehiv.com/</string>
+	<string name="url_main">http://www.hivrisk.org/</string>
     <string name="url_face">https://www.facebook.com/HIVRISKCalculator</string>
-    <string name="url_mobile">http://www.aehiv.com/mobile/</string>
+    <string name="url_mobile">http://www.hivrisk.org/mobile/</string>
     
 </resources>

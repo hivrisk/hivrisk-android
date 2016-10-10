@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/build/intermediates/res/merged/release/drawable-xlarge/strip.png",
+        "source": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/drawable-xlarge/strip.png"
+    },
+    {
+        "merged": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/build/intermediates/res/merged/release/drawable-xlarge/icon.png",
+        "source": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/drawable-xlarge/icon.png"
+    },
+    {
+        "merged": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/build/intermediates/res/merged/release/drawable-xlarge/innericon.png",
+        "source": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/drawable-xlarge/innericon.png"
+    }
+]

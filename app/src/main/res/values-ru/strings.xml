@@ -252,7 +252,7 @@
 <string name="m_nav_proceed">Далее</string>
 <string name="m_nav_get_result">Получить результат!</string>
 <string name="m_nav_do_next">Что делать дальше</string>
-<string name="m_nav_web">aehiv.com</string>
+<string name="m_nav_web">hivrisk.org</string>
 <string name="app_name">Калькулятор риска ВИЧ</string>
 <string name="check_license">Проверить лицензию</string>
 <string name="checking_license">Лицензия проверяется...</string>
@@ -270,9 +270,9 @@
 	How can I perform this activity safely?
 	</string>
 	
-	<string name="url_main">http://www.aehiv.com/</string>
+	<string name="url_main">http://www.hivrisk.org/</string>
     <string name="url_face">https://www.facebook.com/HIVRISKCalculator</string>
-    <string name="url_mobile">http://www.aehiv.com/mobile/</string>
+    <string name="url_mobile">http://www.hivrisk.org/mobile/</string>
 
 <string name="m_biblos">Посмотреть библиографию и ссылки</string>
  

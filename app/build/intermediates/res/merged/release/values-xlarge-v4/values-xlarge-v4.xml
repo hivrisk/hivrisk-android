@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="a1">
+		<item name="android:textColor">#FF0000</item>
+		<item name="android:textSize">26dp</item>
+	</style>
+    <style name="a2">
+		<item name="android:textColor">#111111</item>
+		<item name="android:textSize">26dp</item>
+	</style>
+    <style name="b1la">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textSize">28dp</item>
+		<item name="android:layout_margin">8dp</item>
+		<item name="android:paddingRight">8dp</item>
+		<item name="android:paddingTop">8dp</item>
+		<item name="android:paddingLeft">8dp</item>
+		<item name="android:paddingBottom">8dp</item>
+		<item name="android:gravity">center</item>
+		<item name="android:textColor">#FFFFFF</item>
+		<item name="android:background">@drawable/border6</item>
+	</style>
+    <style name="b1lb">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textSize">28dp</item>
+		<item name="android:layout_margin">8dp</item>
+		<item name="android:paddingRight">8dp</item>
+		<item name="android:paddingTop">8dp</item>
+		<item name="android:paddingLeft">8dp</item>
+		<item name="android:paddingBottom">8dp</item>
+		<item name="android:gravity">center</item>
+		<item name="android:textColor">#FFFFFF</item>
+		<item name="android:background">@drawable/border7</item>
+	</style>
+    <style name="b1lc">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textSize">28dp</item>
+		<item name="android:layout_margin">8dp</item>
+		<item name="android:paddingRight">8dp</item>
+		<item name="android:paddingTop">8dp</item>
+		<item name="android:paddingLeft">8dp</item>
+		<item name="android:paddingBottom">8dp</item>
+		<item name="android:gravity">center</item>
+		<item name="android:textColor">#FFFFFF</item>
+		<item name="android:background">@drawable/border8</item>
+	</style>
+    <style name="b1ln">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textSize">28dp</item>
+		<item name="android:layout_margin">8dp</item>
+		<item name="android:paddingRight">8dp</item>
+		<item name="android:paddingTop">8dp</item>
+		<item name="android:paddingLeft">8dp</item>
+		<item name="android:paddingBottom">8dp</item>
+		<item name="android:gravity">center</item>
+		<item name="android:textColor">#FFFFFF</item>
+		<item name="android:background">@drawable/border4</item>
+	</style>
+    <style name="b1lw">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textSize">28dp</item>
+		<item name="android:layout_margin">8dp</item>
+		<item name="android:paddingRight">8dp</item>
+		<item name="android:paddingTop">8dp</item>
+		<item name="android:paddingLeft">8dp</item>
+		<item name="android:paddingBottom">8dp</item>
+		<item name="android:gravity">center</item>
+		<item name="android:textColor">#111111</item>
+		<item name="android:background">@drawable/border35</item>
+	</style>
+    <style name="b2">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textSize">28dp</item>
+		<item name="android:paddingRight">20dp</item>
+		<item name="android:paddingTop">20dp</item>
+		<item name="android:paddingLeft">20dp</item>
+		<item name="android:paddingBottom">20dp</item>
+		<item name="android:gravity">center</item>
+		<item name="android:textColor">#999999</item>
+	</style>
+    <style name="h1">
+		<item name="android:textColor">#000000</item>
+		<item name="android:textSize">38dp</item>
+	</style>
+    <style name="h2">
+		<item name="android:textColor">#FF2222</item>
+		<item name="android:textSize">34dp</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+    <style name="h3">
+		<item name="android:textColor">#222222</item>
+		<item name="android:textSize">32dp</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+    <style name="h4">
+		<item name="android:textColor">#111111</item>
+		<item name="android:textSize">30dp</item>
+	</style>
+    <style name="h5">
+		<item name="android:textColor">#111111</item>
+		<item name="android:textSize">28dp</item>
+	</style>
+    <style name="icon_small">
+		<item name="android:layout_width">96dp</item>
+		<item name="android:layout_height">96dp</item>
+	</style>
+    <style name="icon_xsmall">
+		<item name="android:layout_width">64dp</item>
+		<item name="android:layout_height">64dp</item>
+		<item name="android:layout_margin">4dp</item>
+	</style>
+    <style name="icon_xxsmall">
+		<item name="android:layout_width">32dp</item>
+		<item name="android:layout_height">32dp</item>
+		<item name="android:layout_margin">4dp</item>
+	</style>
+    <style name="linear_standard_vertical">
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:gravity">left</item>
+		<item name="android:layout_gravity">left</item>
+	</style>
+    <style name="logo_small">
+		<item name="android:layout_width">128dp</item>
+		<item name="android:layout_height">128dp</item>
+	</style>
+    <style name="p1">
+		<item name="android:textColor">#060606</item>
+		<item name="android:textSize">28dp</item>
+	</style>
+    <style name="p2">
+		<item name="android:textColor">#f60606</item>
+		<item name="android:textSize">24dp</item>
+	</style>
+    <style name="p2b">
+		<item name="android:textColor">#060606</item>
+		<item name="android:textSize">24dp</item>
+	</style>
+    <style name="p2g">
+		<item name="android:textColor">#161616</item>
+		<item name="android:textSize">24dp</item>
+	</style>
+    <style name="p3">
+		<item name="android:textColor">#060606</item>
+		<item name="android:textSize">24dp</item>
+	</style>
+    <style name="p4">
+		<item name="android:textColor">#f60606</item>
+		<item name="android:textSize">20dp</item>
+	</style>
+</resources>

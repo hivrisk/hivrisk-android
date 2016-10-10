@@ -481,7 +481,7 @@ public class HivRisk extends CActivity {
        
     public String constructSendString() {
     	String deviceId = Settings.Secure.getString(getContentResolver(), Settings.Secure.ANDROID_ID);
-    	String www = "http://www.aehiv.com/contribute/results.php?";
+    	String www = "http://www.hivrisk.org/contribute/results.php?";
     	String sig = "sig=" + md5(tego);
     	String id = "id="+deviceId;
     	String mod = "mod=";

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/build/intermediates/res/merged/release/layout/step_two.xml",
+        "source": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/layout/step_two.xml"
+    },
+    {
+        "merged": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/build/intermediates/res/merged/release/layout/step_send.xml",
+        "source": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/layout/step_send.xml"
+    },
+    {
+        "merged": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/build/intermediates/res/merged/release/layout/step_four.xml",
+        "source": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/layout/step_four.xml"
+    },
+    {
+        "merged": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/build/intermediates/res/merged/release/layout/disclaimer.xml",
+        "source": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/layout/disclaimer.xml"
+    },
+    {
+        "merged": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/build/intermediates/res/merged/release/layout/wizardoff.xml",
+        "source": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/layout/wizardoff.xml"
+    },
+    {
+        "merged": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/build/intermediates/res/merged/release/layout/main.xml",
+        "source": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/build/intermediates/res/merged/release/layout/step_review.xml",
+        "source": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/layout/step_review.xml"
+    },
+    {
+        "merged": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/build/intermediates/res/merged/release/layout/step_zero.xml",
+        "source": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/layout/step_zero.xml"
+    },
+    {
+        "merged": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/build/intermediates/res/merged/release/layout/step_three.xml",
+        "source": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/layout/step_three.xml"
+    },
+    {
+        "merged": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/build/intermediates/res/merged/release/layout/step_one.xml",
+        "source": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/layout/step_one.xml"
+    },
+    {
+        "merged": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/build/intermediates/res/merged/release/layout/step_results.xml",
+        "source": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/layout/step_results.xml"
+    },
+    {
+        "merged": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/build/intermediates/res/merged/release/layout/step_donext.xml",
+        "source": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/layout/step_donext.xml"
+    },
+    {
+        "merged": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/build/intermediates/res/merged/release/layout/step_sexview.xml",
+        "source": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/layout/step_sexview.xml"
+    },
+    {
+        "merged": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/build/intermediates/res/merged/release/layout/webcontent.xml",
+        "source": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/layout/webcontent.xml"
+    },
+    {
+        "merged": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/build/intermediates/res/merged/release/layout/step_sexselect.xml",
+        "source": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/layout/step_sexselect.xml"
+    },
+    {
+        "merged": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/build/intermediates/res/merged/release/layout/step_sexinfo.xml",
+        "source": "/Users/luis/Documents/workspace_android/hivrisk_hope/app/src/main/res/layout/step_sexinfo.xml"
+    }
+]
